@@ -1,5 +1,6 @@
 
-![Uploading image.png…]()
+<img width="1396" height="543" alt="image" src="https://github.com/user-attachments/assets/cf126fa0-b26c-4759-a628-87dea73d4ae1" />
+
 
 We’ll build this structure:
 

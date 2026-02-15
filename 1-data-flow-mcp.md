@@ -249,14 +249,3 @@ This is clean architecture.
 
 ---
 
-# ⚡ Next Level Options
-
-Now we can:
-
-1️⃣ Add multiple tools
-2️⃣ Make it a FastAPI REST API
-3️⃣ Add logging to see tool calls live
-4️⃣ Add memory + conversation state
-5️⃣ Replace eval with safe math parser
-
-Pick one — we scale it properly 🚀
